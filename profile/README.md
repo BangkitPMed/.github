@@ -26,5 +26,5 @@ We are a team of 6 consist of 3 ML Learning Path Students, 1 CC Learning Path St
 
 ### Github
 - [machine learing](https://github.com/BangkitPMed/PMed_android)
-- [API](https://github.com/BangkitPMed/Pmed-api-dev)
+- [cloud computing](https://github.com/BangkitPMed/Pmed-api-dev)
 - [mobile development](https://github.com/BangkitPMed/PMed_android)
